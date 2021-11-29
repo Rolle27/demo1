@@ -1,0 +1,19 @@
+head {
+    background-color: black;
+}
+
+
+button {
+    color: coral;
+}
+
+img {
+    border-radius: 20%;
+  }
+
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgba(223, 109, 179, 0.911);
+    color: white;
+  }
